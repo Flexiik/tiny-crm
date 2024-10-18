@@ -1,0 +1,36 @@
+<center><bold><font18>Plná moc
+
+<center>JÁ, NÍŽE PODEPSANÝ (Á)
+<center>(ZMOCNITEL)
+
+Jméno a příjmení, případně 
+název organizace, firmy
+Trvalý pobyt, sídlo
+Rodné číslo, případně IČ 
+organizace, firmy
+Kontaktní telefon
+Email
+
+V souvislosti s žádostí o podporu z programu Nová zelená úsporám zmocňuji
+
+ZMOCNĚNCI
+<block>Název organizace, firmy<block><company.name>
+<block>Se sídlem<block><company.address>
+<block>IČ<block><company.ic>
+<block>Zastoupená statutárním zástupcem<block><employee.title> <employee.firstName> <employee.lastName>
+<block>Narozeného<block><employee.birthDate>
+<block>Trvalým pobytem na adrese<block><employee.address>
+<block>Kontaktní telefon<block>+420 <employee.phone>
+<block>Email<block><company.email>
+
+V následujícím rozsahu:
+Aby mě zastupoval ve všech právních věcech souvisejících s podáním žádosti o podporu z programu Nová zelená úsporám a její administrací až do jejího řádného ukončení, aby vykonával veškeré potřebné úkony, přijímal doručované písemnosti, podával návrhy a žádosti, uznával uplatněné nároky, vzdával se nároků, podával opravné prostředky, námitky a vzdával se jich, vymáhal nároky a jejich plnění potvrzoval, to vše i tehdy, když je podle právních předpisů zapotřebí zvláštní plné moci.  
+
+<block> <block>Plnou moc přijímám
+<block>V _______________ dne _______________<block>V _______________ dne _______________
+
+____________________________________		
+Zmocnitel						
+
+<block> <block>____________________________________
+<block> <block>Zmocněnec

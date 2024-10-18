@@ -1,0 +1,33 @@
+
+
+<center><bold><font18>Souhlas s výstavbou fotovoltaické elektrárny
+
+
+Vlastník nemovitosti
+<indent><item2>Jméno: ………………………          
+<indent><item2>R.Č.: ………………………
+
+Spoluvlastník
+<indent><item2>Jméno: ………………………
+<indent><item2>R.Č.: ………………………
+
+Místo instalace
+<indent><item2>Ulice: ………………………
+<indent><item2>Město: ………………………
+<indent><item2>PSČ: ………………………
+<indent>(dále jen „objekt“)
+
+
+Souhlasím(e) s výstavbou fotovoltaické elektrárny o výkonu <contract.panelsPower> kWp na střeše objektu č.p. <contract.addressNumber>, umístěného na pozemku p.č. <contract.parcelNumber> o výměře <contract.parcelAreaSize> m2, k.ú. <contract.cadastralLands>, okres <contract.district>, LV <contract.parcelDeed>. Instalaci bude provádět společnost <company.name> IČ: <company.ic>.
+
+
+
+V _______________________________ dne _______________________
+
+
+<block>Podpis vlastníka<block>Podpis spoluvlastníka
+
+
+
+
+<block>_____________________<block>_____________________

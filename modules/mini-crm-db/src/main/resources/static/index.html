@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Tiny CRM</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<div>
+    <h2>SAVE DATA</h2>
+    <form action="/save" method="GET" id="saveDataForm">
+        <div>
+            <label for="pathFieldSave">Path: </label>
+            <input name="pathSave" id="pathFieldSave" autocomplete="off">
+            <br><br>
+
+            <label for="dataFieldSave">Data: </label>
+            <input name="dataSave" id="dataFieldSave" autocomplete="off"><br><br>
+
+            <button>Save Data</button>
+        </div>
+    </form>
+    <br>
+
+    <h2>GET DATA</h2>
+    <form action="/get" method="GET" id="getDataForm">
+        <div>
+            <label for="pathFieldGet">Path: </label>
+            <input type="text" name="pathGet" id="pathFieldGet" autocomplete="off"><br><br>
+
+            <button>Get Data</button>
+        </div>
+    </form>
+    <br>
+
+    <h2>DELETE DATA</h2>
+    <form action="/delete" method="get" id="deleteDataForm">
+        <div>
+            <label for="pathFieldDelete">Path: </label>
+            <input type="text" name="pathDelete" id="pathFieldDelete" autocomplete="off"><br><br>
+
+            <button>Delete Data</button>
+        </div>
+    </form>
+
+    <h2>LIST DATA</h2>
+    <form action="/list" method="get" id="listDataForm">
+        <div>
+            <label for="pathFieldList">Path: </label>
+            <input type="text" name="pathList" id="pathFieldList" autocomplete="off"><br><br>
+
+            <button>List Data</button>
+        </div>
+    </form>
+</div>
+
+</body>
+</html>

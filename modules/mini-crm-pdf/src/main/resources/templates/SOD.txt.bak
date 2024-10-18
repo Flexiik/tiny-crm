@@ -1,0 +1,204 @@
+<bold><center>SMLOUVA O DÍLO
+<bold><center>č. <contract.number>
+<center>uzavřená dle § 2586 a násl. zákona č. 89/2012 Sb., občanský zákoník
+(dále také jako „Smlouva“ nebo „SOD“)
+
+uzavřená mezi:
+<bold><company.name>
+<company.ids>
+se sídlem: <company.address>
+zapsaná v obchodním rejstříku vedeném <company.registry>
+zastoupená jednatelem: <employee.title> <employee.firstName> <employee.lastName>, <employee.role>
+bankovní spojení: <company.bank>, č. ú.: <company.account>
+tel: <employee.phone>
+e-mail: <company.email>
+na straně jedné jako zhotovitel
+(dále také jako „Zhotovitel“)
+
+a
+
+<customer.firstName> <customer.lastName>
+<customer.addressStreet>
+<customer.addressPin> <customer.addressCity>
+Rodné číslo: <customer.birthNumber>
+Tel.: +420 <customer.phone>
+E-mail: <customer.email>
+Bankovní spojení: <customer.bank>, č.ú.: <customer.account>
+na straně druhé jako objednatel
+(dále také jako <bold>„Objednatel“<bold>)
+
+(Zhotovitel a Objednatel společně dále také jako <bold>„Smluvní strany“<bold> nebo <bold>„Strany“<bold>)
+
+níže uvedeného dne na níže uvedeném místě za následujících podmínek a s přílohami dále obsaženými.
+
+<item><bold>1. Předmět díla a projev vůle
+
+<item>1.1. Předmětem díla dle této Smlouvy je dodávka a montáž kompletního systému <bold>solární fotovoltaické elektrárny<bold> (dále také jako <bold>„FVE“<bold>) o instalovaném výkonu <contract.panelsPower> kWp, tedy:
+<indent><indent>• zpracování projektové dokumentace FVE o souhrnném výkonu <contract.panelsPower> kWp pro realizaci stavební připravenosti Objednatelem;
+<indent><indent>• výstavba FVE - tj. kompletní dodávka a montáž FVE o souhrnném nominálním výkonu <contract.panelsPower> kWp +/- 3%, s baterií <contract.batteryPower> kWh.
+<indent><indent>• provedení zkoušky funkčnosti FVE;
+<indent><indent>• provedení elektro revize FVE;
+<indent><indent>• zpracování přípravy a podání žádosti v zastoupení Objednatele o poskytnutí dotace z programu Nová zelená úsporám (dále také jako <bold>„dotace NZÚ“<bold>) u Státního fondu životního prostředí ČR (pozn. K podání žádosti se Objednatel zavazuje Zhotoviteli vystavit patřičnou písemnou plnou moc.); 
+<indent><indent>(dále také jako <bold>„dílo“<bold>).
+
+<item>1.2. K odstranění pochybností se konstatuje, že předmětem díla není:
+<indent><indent>• realizace přípojky nízkého napětí;
+<indent><indent>• případná úprava, nebo přemístění stávajícího obchodního měření;
+<indent><indent>• venkovní výkopové práce;
+<indent><indent>• úprava, nebo přemístění elektroměrového rozvaděče;
+<indent><indent>• příprava a realizace hromadného dálkového ovládání (tzv. HDO);
+<indent><indent>• náklad a realizace spojená s dodržením podmínek pro připojení fotovoltaické elektrárny k distribuční soustavě, a to v případě jejich změny vyvolané třetími osobami (například: vlastník, provozovatel distribuční soustavy, energetický regulační úřad apod.), a to v termínu po datu podpisu této smlouvy;
+<indent><indent>• vzdálený firemní monitoring FVE.
+<indent><indent>• Ceník volitelných víceprací je přílohou č. 1 této Smlouvy. Z tohoto ceníku bude vycházeno i při změnách Smlouvy ve smyslu čl. 4.6. a 4.7. této Smlouvy a pro Strany je závazný. 
+
+<item>1.3. Zhotovitel se zavazuje k provedení díla, jak je uvedeno v článku 1.1. této Smlouvy a Objednatel se zavazuje dílo převzít a zaplatit cenu díla dle článku 4 této Smlouvy, a to za podmínek ve Smlouvě uvedených.
+
+<item><bold>2. Místo a způsob plnění
+
+<item>2.1. Místem plnění je <contract.address>. Objednatel předložil Zhotoviteli před uzavřením této Smlouvy souhlas vlastníka nemovitosti s provedením díla, pakliže Objednatel není sám výlučným vlastníkem nemovitosti. Objednatel se zavazuje staveniště řádně připravit k provedení díla a předat připravené staveniště Zhotoviteli dle podmínek této Smlouvy.
+
+<item>2.2. Zhotovitel bude při plnění předmětu této Smlouvy postupovat s odbornou péčí a zavazuje se dodržovat obecně platné právní předpisy, ustanovení zákona č. 165/2012 Sb., o podporovaných zdrojích energie, v platném znění, technické normy ČSN, EN, ISO, IEN, ev. jiné technické normy platné v termínu provádění a podmínky dle této Smlouvy.
+
+<item>2.3. Zhotovitel se zavazuje provádět dílo přiměřeně dle pokynů Objednatele. Zhotovitel je povinen upozornit Objednatele neprodleně na nevhodnost těchto pokynů.
+
+<item>2.4. Smluvní strany výslovně prohlašují, že se před podpisem této Smlouvy dohodly na technologických postupech prací, systému kontroly, kontaktech řídících pracovníků včetně řešení problémových záležitostí. Byly určeny kontaktní osoby včetně rozsahu pravomocí a byly předány telefonické kontakty.
+
+<item>2.5. Zhotovitel je povinen předat Objednateli patřičné doklady, certifikáty, záruční listy, návody, revizní zprávy v souladu s platnými právními, bezpečnostními, technologickými předpisy a normami, a to v termínu do 30 (slovy: třiceti) dní od data provedení tzv. prvního paralelního připojení výrobny do distribuční sítě.
+
+<item><bold>3. Termín plnění
+
+<item>3.1. Provádění díla bude započato po předání staveniště Objednatelem dle článku 6 odst. 3 této Smlouvy. Dílo bude provedeno dle harmonogramu:
+<indent><indent>• předání staveniště:<indent><indent><indent><indent>do 60 dnů od obdržení akceptačního dopisu o schválení žádosti o dotaci NZÚ;
+<indent><indent>• zahájení díla:<indent><indent><indent><indent>do <contract.startDays> dnů od převzetí staveniště;
+<indent><indent>• dokončení díla:<indent><indent><indent><indent>do 60 dnů od zahájení díla.
+
+<item>3.2. Zhotovitel je oprávněn provést a dodat dílo i před sjednanou dobou.
+
+<item>3.3. Objednatel bere na vědomí, že termín dokončení díla dle čl. 3.1. této Smlouvy je závislý na jeho řádné součinnosti se Zhotovitelem dohodnuté v této Smlouvě, jejích dodatcích, případně vyplývající z okolností během provádění díla. Smluvní strany se dohodly, že termíny provádění a dokončení díla, jak jsou uvedeny v čl. 3.1. této Smlouvy, se prodlužují v následujících případech:
+<indent><indent>a) prodlení Objednatele s úhradou jakékoliv platby dle této Smlouvy;
+<indent><indent>b) prodlení Objednatele s předáním staveniště a/nebo neumožnění provádění díla (např. z důvodu nepřipravenosti staveniště, nevyjasněnosti majetkoprávních vztahů, nevydání souhlasu s provedením díla, nemožnost čerpání finančních zdrojů Objednatele apod.);
+<indent><indent>c) prodlení Objednatele s poskytnutím součinnosti Zhotoviteli dle této Smlouvy;
+<indent><indent>d) jednání Smluvních stran o změně Smlouvy;
+<indent><indent>e) nemožnost provádění díla v důsledku klimatických podmínek (např. mráz, vydatné dešťové či sněhové srážky apod.) či okolností nezávislých na vůli Zhotovitele (např. problematické vysychání hrubých podlah apod.),
+<indent><indent>f) nemožnost provádění díla v důsledku epidemiologické situace (např. omezení způsobená pandemií COVID-19, apod.),
+<indent><indent>g) nemožnost provádění díla v důsledku válečného stavu, mezinárodního konfliktu, nouzového stavu, stavu nouze v energetice apod. a to o stejný počet dní, po který trvala příslušná překážka, uvedená v tomto odstavci, přičemž v takovém případě není Zhotovitel v prodlení s plněním svých povinností dle této Smlouvy. Objednatel bere na vědomí, že v případě přerušení či pozastavení prací na díle může dojít k výraznému posunu termínu zahájení a dokončení díla, a to v důsledku smluvně vázané realizace jiných projektů s již pevně stanovenými časy zahájení a ukončení prací. Nově určené termíny provádění a dokončení díla budou v situacích dle tohoto odstavce jednostranně stanoveny Zhotovitelem a předány Objednateli v písemné formě, s čímž Objednatel bez výhrad souhlasí. V případě, že nastanou okolnosti dle tohoto odstavce Smlouvy, není Zhotovitel v prodlení se zahájením prací a/nebo s dokončením díla dle této Smlouvy.
+
+<item>3.4. Objednatel zajistí Zhotoviteli přístup k místu plnění a všem prostorám, ve kterých budou práce prováděny.
+
+<item><bold>4. Cena díla
+
+<item>4.1. Smluvní strany se dohodly na ceně díla ve výši <bold><contract.price>,- Kč<bold> (slovy: <contract.price.words> korun českých). Cenová nabídka Zhotovitele, která specifikuje detailněji cenu díla, je přílohou č. 2 této Smlouvy.
+
+<item>4.2. Smluvní cena je stanovena jako cena konečná a nejvýše přípustná.
+
+<item>4.3. V ceně díla je již připočtena daň z přidané hodnoty dle platných právních předpisů o DPH.
+
+<item>4.4. Objednatel se zavazuje hradit cenu díla průběžně při provádění díla, a to na základě daňových dokladů – faktur vystavovaných Zhotovitelem, a to ve třech platbách:
+<indent><indent>• <contract.phase1Payment>% ihned po uzavření této Smlouvy;
+<indent><indent>• <contract.phase2Payment>% po schválení připojení FVE do distribuční sítě;
+<indent><indent>• <contract.phase3Payment>%  po dokončení celého díla bez vad a nedodělků bránících řádnému užívání díla.
+
+<indent>Splatnost faktur je 7 (slovy: sedm) dnů ode dne jejich vystavení. Faktury budou zasílány Objednateli elektronicky na e-mailovou adresu Objednatele uvedenou v záhlaví této Smlouvy nebo předávány Objednateli osobně oproti potvrzení jejich převzetí. Fakturovaná částka bude Objednatelem hrazena bezhotovostním převodem na bankovní účet Zhotovitele, přičemž za okamžik zaplacení se považuje okamžik připsání příslušné částky na bankovní účet Zhotovitele. Jednostranné započtení pohledávek Objednatele vůči Zhotoviteli je vyloučeno.
+
+<item>4.5. Cena díla zahrnuje náklady vynaložené Zhotovitelem při provádění díla. Další náklady je Zhotovitel oprávněn účtovat pouze po předchozím písemném souhlasu Objednatele.
+
+<item>4.6. Dojde-li při realizaci díla k jakýmkoli změnám či doplňkům vyplývajícím z podmínek při provádění díla, z odborných znalostí Zhotovitele nebo z vad stavební připravenosti, apod., je Zhotovitel povinen provést soupis změn, doplňků nebo rozšíření, ohodnotit a předložit tento soupis Objednateli k odsouhlasení formou „Dodatku ke smlouvě“. V tomto dodatku dohodnou Smluvní strany podmínky i dobu nutnou pro realizaci těchto změn. Teprve po jeho oboustranném odsouhlasení má Zhotovitel právo na realizaci změn a jejich úhradu Objednatelem. 
+
+<item>4.7. Dojde-li při realizaci díla k jakýmkoli změnám či doplňkům nebo rozšíření díla vyplývajícím z dodatečných požadavků Objednatele, je Objednatel povinen provést soupis změn, doplňků nebo rozšíření, tyto požadavky předat Zhotoviteli, který stanoví jejich cenu a o těchto změnách uzavřou obě strany dodatek ke Smlouvě. V tomto dodatku dohodnou podmínky i dobu nutnou pro realizaci těchto změn. Teprve po jeho oboustranném písemném odsouhlasení má Zhotovitel právo na realizaci změn a jejich úhradu, v opačném případě bude Zhotovitel dílo realizovat dle původní sjednané úpravy. 
+
+<item><bold>5. Předání a převzetí díla
+
+<item>5.1. Zhotovitel předá Objednateli kompletní a řádně zhotovené dílo. Objednatel je povinen dílo převzít i za předpokladu, že obsahuje drobné vady, které samy o sobě ani ve spojení s jinými nebrání užívání díla, ani jeho užívání podstatným způsobem neomezují.
+
+<item>5.2. Zhotovitel po dokončení díla ve smyslu předchozího odstavce tohoto článku vyzve písemně nejpozději 3 (slovy: tří) dnů předem Objednatele k převzetí díla. Objednatel je následně povinen nejpozději do 1 pracovního dne od termínu stanoveného Zhotovitelem zahájit přejímací řízení a řádně v něm pokračovat do úplného převzetí díla. 
+
+<item>5.3. O průběhu přejímacího řízení pořídí Objednatel zápis, ve kterém budou uvedeny případné vady a nedodělky, které žádá odstranit. Dílo nebo jeho část se považuje za předané okamžikem podpisu zápisu o předání díla. Pokud Objednatel odmítá dílo nebo jeho část převzít, je povinen do zápisu uvést důvody odepření převzetí. Kopii zápisu je Objednatel povinen neprodleně předat Zhotoviteli. Zhotovitel je povinen bez prodlení odstranit případné vady a nedodělky uvedené v zápisu o předání díla, a to nejpozději do 7 (slovy: sedmi) pracovních dnů od jejich vytčení Objednatelem v rámci přejímacího řízení.
+
+<item><bold>6. Provádění díla
+
+<item>6.1. Zhotovitel se zavazuje provést dílo vlastním jménem a na vlastní odpovědnost, ve sjednaném rozsahu a sjednané době. Zhotovitel je oprávněn pověřit provedením díla či jeho části jiné osoby (subdodavatele), s čímž Objednatel souhlasí. V takovém případě však Zhotovitel odpovídá, jako by dílo prováděl sám.
+
+<item>6.2. Objednatel je povinen poskytovat Zhotoviteli veškerou požadovanou součinnost pro řádné splnění povinností Zhotovitele z této Smlouvy. Vyžádá-li si Zhotovitel součinnost Objednatele, je Objednatel povinen požadovanou součinnost Zhotoviteli poskytnout neprodleně, nejpozději však do 24 (slovy: dvaceti čtyř) hodin od doručení žádosti Zhotovitele, pokud to bude z povahy věci možné. V případě neposkytnutí součinnosti ze strany Objednatele se Zhotovitel nedostává do prodlení s prováděním Díla.
+
+<item>6.3. K provedení Díla se Objednatel zavazuje předat Zhotoviteli staveniště zbavené práv třetích osob a zajistit podmínky pro provádění díla - stavební připravenost v souladu s dotčenými právními předpisy a v souladu se Zhotovitelem zpracovanou projektovou dokumentací stavební připravenosti.  Objednatel je povinen předat staveniště Zhotoviteli s vytyčením místa montáže, s určením plochy pro skladování materiálu včetně místa skladování případného odpadu, ev. místa pro parkování vozidel Zhotovitele. Objednatel je dále povinen odevzdat staveniště přiměřeně vyklizené - v případě montáže panelů na střechu se zajištěným přiměřeným a bezpečným přístupem na střechu, dále případně zbavené vysoké trávy a jiných porostů bránících provádění díla tak, aby na něm Zhotovitel mohl začít s pracemi v souladu s podmínkami této Smlouvy.
+
+<item>6.4. Objednatel je dále povinen umožnit Zhotoviteli po dobu provádění díla neomezený přístup na staveniště a umožnit Zhotoviteli použití zdroje elektrické energie do vzdálenosti max. 20 metrů od staveniště.
+
+<item>6.5. Zhotovitel odstraní nejpozději k termínu předání díla na vlastní náklad všechny odpady, které jsou výsledkem jeho činností, a staveniště vyklidí.
+
+<item>6.6. Objednatel souhlasí s tím, že Zhotovitel je oprávněn zachytit dílo v jakékoliv jeho fázi - i po jeho úplném dokončení - na nosičích obrazu, tj. fotografických a jiných snímcích jeho vizualizace, a jejich prostřednictvím jej prezentovat jako výsledek své činnosti v tiskovinách a jiných médiích, vč. elektronických (publikace, katalogy, webové stránky, sociální sítě apod.). Toto právo se sjednává ve prospěch Zhotovitele bezúplatně a není vnímáno Objednatelem jako zásah do jeho osobnostních či majetkových práv, i když bude pořízený obrazový záznam zachycovat interiérovou část díla, kterou je stavba domu určená k bydlení.
+
+<item><bold>7. Vlastnická práva
+
+<item>7.1. Vlastnické právo k dílu přechází na Objednatele až po úplném zaplacení ceny díla. Do tohoto okamžiku, tj. do okamžiku úplného zaplacení ceny díla, je Objednatel povinen umožnit Zhotoviteli přístup na staveniště a volné nakládání s dílem. Výslovně se sjednává, že bude-li Objednatel v prodlení s úhradou ceny díla, je zhotovitel v období do úplného zaplacení ceny díla oprávněn demontovat a odvézt dílo nebo část díla (zejména panely a střídače) a Objednatel je povinen mu to umožnit a toto strpět. Smluvní strany výslovně vylučují použití ust. § 2599 zákona č. 89/2012 Sb., občanský zákoník, v platném znění.
+
+<item>7.2. Smluvní strany se dohodly, že nebezpečí škody přechází na Objednatele u fotovoltaických panelů okamžikem, kdy jsou definitivně připevněny na konstrukci pevně spojenou s konstrukcí střechy ev. jiné části nemovitosti Objednatele. U ostatních částí díla nebezpečí škody přechází na Objednatele převzetím díla.
+
+<item>7.3. V případě, že si Objednatel vymíní, že chce mít materiál (např. fotovoltaické panely, střídače, baterii a jiné komponenty) zajištěn a uskladněn u sebe v předstihu před montáží, pak nebezpečí škody ohledně tohoto materiálu přechází na Objednatele okamžikem převzetí a bude na něm až do zahájení díla - montáže - ze strany Zhotovitele, o čemž bude sepsán písemný protokol. Zhotovitel bere na vědomí, že dodání materiálu v předstihu je víceprací, která je naceněna v Ceníku volitelných víceprací, který je přílohou č. 1 této Smlouvy. Tato vícepráce samostatně nevyžaduje uzavření dodatku ke smlouvě.
+
+<item><bold>8. Sankční ujednání
+
+<item>8.1. V případě prodlení Objednatele s úhradou jakékoliv platby dle této Smlouvy je Zhotovitel oprávněn požadovat po Objednateli zaplacení smluvního úroku z prodlení ve výši 0,05 % z dlužné částky za každý započatý den prodlení.
+
+<item>8.2. V případě prodlení Zhotovitele s dokončením díla dle čl. 3.1. této Smlouvy je Objednatel oprávněn požadovat po Zhotoviteli zaplacení smluvní pokuty ve výši 0,05 % z ceny odpovídající dosud nedokončené části díla za každý započatý den prodlení. Smluvní strany se dohodly na limitaci výše smluvní pokuty, jejíž úhradu je možné vůči Zhotoviteli požadovat, a to do výše 5 % (slovy: pěti procent) ceny díla bez DPH.
+
+<item>8.3. Smluvní strany se dohodly, že Objednatel je oprávněn odstoupit od této Smlouvy písemným oznámením zaslaným Zhotoviteli na adresu uvedenou v záhlaví této Smlouvy, a to v těchto případech:
+<indent><indent>• Objednateli nebude schválena dotace NZÚ;
+<indent><indent>• bezdůvodné přerušení prací Zhotovitelem přesahující 60 (slovy: šedesát) dnů;
+<indent><indent>• vedené insolvenční řízení vůči Zhotoviteli a/nebo v případě vydání rozhodnutí příslušného insolvenčního soudu, kterým bude zjištěn úpadek Zhotovitele.
+
+<item>8.4. Smluvní strany se dohodly, že Zhotovitel je oprávněn odstoupit od této Smlouvy písemným oznámením zaslaným Objednateli na adresu uvedenou v záhlaví této Smlouvy, a to v těchto případech:
+<indent><indent>• prodlení s předáním řádně připraveného staveniště delším než 60 (slovy: šedesát) dnů;
+<indent><indent>• prodlení s úhradou jakékoliv platby dle této Smlouvy delší než 15 (slovy: patnáct) dnů, jestliže Objednatel nesplní svoji povinnost ani v dodatečné lhůtě stanovené Zhotovitelem, která nesmí být kratší než 7 (slovy: sedm) dnů;
+<indent><indent>• pokud v období mezi uzavřením této Smlouvy a faktickým zahájením stavby (předáním staveniště) dojde objektivně k nárůstu cen vstupního materiálu nebo služeb třetích stran nezbytně nutných k realizaci díla takovým způsobem, že by obvyklá cena díla byla v  době faktického zahájení díla nejméně o 20 % (slovy: dvacet procent) vyšší;
+<indent><indent>• vedené insolvenční řízení vůči Objednateli a/nebo v případě vydání rozhodnutí příslušného insolvenčního soudu, kterým bude zjištěn úpadek Objednatele.
+
+<item><bold>9. Záruční podmínky
+
+<item>9.1. Zhotovitel odpovídá za to, že dílo bude provedeno v souladu a za podmínek stanovených touto Smlouvou, příslušnými právními předpisy, závaznými technickými normami a následnými písemnými ujednáními Smluvních stran.
+
+<item>9.2. Zhotovitel poskytuje na dílo uvedené v této Smlouvě záruku 24 (slovy: dvacet čtyři) měsíců od data předání dokončeného díla Objednateli. Záruka se rovněž vztahuje na vodotěsnost v místech uchycení nosné konstrukce panelů do stávající střechy objektu, jsou-li panely montovány na střechu.
+
+<item>9.3. Nad rámec záruky dle čl. 9.2. této Smlouvy se pro dílčí části díla poskytují ze strany výrobců následující produktové záruky:
+<indent><indent>• záruka na fotovoltaické panely 12 let - jejich mechanickou část; tato záruka se vztahuje i na výskyt drobných prasklin v povrchu panelu tzv. snail trails a přehřívání jednotlivých buněk panelu tzv. hotspot; 10 let na úroveň výkonu min. 90% z původního nominálního výkonu výrobce dle technického listu výrobce; 25 let na úroveň výkonu min. 80% z původního nominálního výkonu výrobce dle technického listu výrobce;
+<indent><indent>• záruka na měnič činí 5 let a 5 let záruka na náhradní díly;
+<indent><indent>• záruka na konstrukční vady u bateriového úložiště činí 5 let a 5 let od výrobce u lithiových baterií, 1 rok u gelových baterií.
+<indent>Konstatuje se, že produktové záruky dle tohoto článku nejsou zárukou poskytovanou Zhotovitelem a Zhotovitel pouze pro Objednatele zprostředkuje u výrobce reklamaci, která probíhá dle podmínek výrobce. Pokud výrobce uzná reklamaci a dodá nový výrobek, pak případná výměna je ze strany Zhotovitele zpoplatněna - na tyto práce bude Zhotovitelem vypracována cenová nabídka.
+
+<item>9.4. V případě záručních oprav díla či jeho částí, má Objednatel nárok na bezplatné a bezodkladné odstranění vad provedeného díla, pokud se jedná o vadu opravitelnou. Pokud se jedná o vadu neopravitelnou, má Objednatel nárok na slevu z ceny díla nebo od Smlouvy odstoupit, volba mezi těmito nároky přísluší Objednateli. Zhotovitel vyšle po písemné výzvě Objednatele svého zástupce k posouzení uplatňované vady a pro příp. projednání termínů a postupu jejího odstranění.
+
+<item>9.5. Záruka se nevztahuje na prokazatelně neoprávněné zásahy do provedeného díla.
+
+<item><bold>10. Reklamace
+
+<item>10.1. Reklamaci je nutno uplatnit u Zhotovitele písemně včetně uvedení konkrétní vady nejpozději do posledního dne záruční lhůty. Písemnou formou dle předchozí věty se myslí doporučený dopis zaslaný na adresu sídla Zhotovitele uvedenou v záhlaví této Smlouvy. Vady vyskytnuvší se na předmětu díla v průběhu záruční doby dle této Smlouvy je povinen Objednatel vytknout Zhotoviteli písemně včetně uvedení konkrétní vady a uplatňovaného nároku z odpovědnosti za vady.
+
+<item>10.2. Reklamační vadu je Zhotovitel povinen neprodleně bezplatně odstranit nejpozději do 30 dnů od uplatnění reklamace.
+
+<item><bold>11. Závěrečná ujednání
+
+<item>11.1. Smlouva nabývá platnosti dnem jejího podpisu oběma Smluvními stranami, popř. v pořadí druhou z nich. Je vyhotovena ve dvou stejnopisech, z nichž jeden obdrží Zhotovitel a druhý Objednatel.
+
+<item>11.2. Tuto Smlouvu lze měnit pouze písemně, oboustranně potvrzeným a číslovaným „Dodatkem ke smlouvě“. Písemnou formu vyžaduje též dohoda, že Smluvní strany od požadavku dle předchozí věty upouštějí. Stejné účinky jako doručení jakéhokoli písemného právního úkonu druhé Smluvní straně má odmítnutí takovéto strany písemný úkon převzít. 
+
+<item>11.3. Nastanou-li u některé ze Stran skutečnosti bránící řádnému plnění této Smlouvy, je povinna to oznámit bez zbytečného odkladu druhé Straně a vyvolat jednání zástupců oprávněných k podpisu Smlouvy.
+
+<item>11.4. Tato Smlouva se řídí českým právem, zejména zákonem č. 89/2012 Sb., občanský zákoník.
+
+<item>11.5. Je-li některé z ustanovení této Smlouvy neplatné či neúčinné nebo pozbude-li platnosti, zůstává tím platnost ostatních ustanovení nedotčena. Namísto neplatného nebo neúčinného ustanovení nastupuje ustanovení všeobecně závazných předpisů, které řeší danou otázku smluvního vztahu. V tomto případě se Smluvní strany zavazují změnit svůj smluvní vztah přijetím nového ustanovení, které bude svým obsahem nejlépe odpovídat neplatnému nebo neúčinnému ustanovení.
+
+<item>11.6. Obě Smluvní strany svými podpisy potvrzují, že Smlouvu uzavřely dobrovolně, svobodně a vážně, podle své nejlepší vůle, bez jakéhokoli nátlaku, tísně či jinak jednostranně nevýhodných podmínek. Smluvním stranám nejsou známy žádné překážky, které by uzavření této Smlouvy bránily.
+
+<item>11.7. Nedílnou součástí této Smlouvy jsou následující přílohy:
+<indent>1) ceník volitelných víceprací;
+<indent>2) cenová nabídka Zhotovitele;
+
+
+<block-8><center>V _____ dne _____<block><center>V _____ dne _____
+
+
+
+<block><center>________________________________<block><center>________________________________
+<block><center>za <company.name><block> 
+<block><center><employee.title> <employee.firstName> <employee.lastName>, <employee.role><block> 
+<block><center><italic>Zhotovitel<block><center>Objednatel
